@@ -1,5 +1,6 @@
 ## 1 how to connect the database
 1-create a database in postgres
+
 2-run db-migrate up to create automatically
 
 ## 2 ports
