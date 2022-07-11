@@ -6,24 +6,39 @@ These are the notes from a meeting with the frontend developer that describe wha
 ## API Endpoints
 #### Products
 1-index route=>get('/products') 
+
 2-show route=>get('/products/:id')
+
 3-create route=>post('/products')
+
 4-update route=>put('/products/:id')
+
 5-delete route=>delete('/products/:id')
 #### Users
 1-index route=>get('/user') 
+
 2-show route=>get('/user/:id')
+
 3-create route=>post('/user')
+
 4-update route=>put('/user/:id')
+
 5-delete route=>delete('/user/:id')
+
 6-authenticate=>post('/user/authenticate')
 #### Orders
 1-complete orders route=>post('/order') 
+
 2-active order route=>get('/order/:id')
+
 3-create route=>post('/order')
+
 4-update route=>put('/order/:id')
+
 5-delete route=>delete('/order/:id')
+
 6- order_product route=>('/order/:id/products')
+
 ## Data Shapes
 #### Products
 -  id
