@@ -1,4 +1,4 @@
-#description
+# description
 - The company stakeholders want to create an online storefront to showcase their great product ideas. Users need to be able to browse an index of all products, see the specifics of a single product, and add products to an order that they can view in a cart page
 
 # how to connect the database
