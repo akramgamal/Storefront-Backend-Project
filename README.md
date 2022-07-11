@@ -4,7 +4,7 @@
 # how to connect the database
 1-create a database in postgres
 
-2-run db-migrate up to create automatically
+2-run db-migrate up to run migrations and create tables automatically
 
 # ports
 1-backend=>3000
