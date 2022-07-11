@@ -15,6 +15,7 @@
 1-run npm install in terminal
  
 # added authentication and authorization by JWT package
+# added encryption to user's password
 # Testing
 - added unit tests for every method in the models
 - run by npm run test2
