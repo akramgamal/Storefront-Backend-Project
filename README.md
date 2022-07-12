@@ -16,6 +16,6 @@
  
 # added authentication and authorization by JWT package
 # added encryption to user's password
-# Testing
+# Testing by jasmine
 - added unit tests for every method in the models
 - run by npm run test2
